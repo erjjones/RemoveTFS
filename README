@@ -3,7 +3,7 @@
 -----------
 Description:
 -----------
-Recently I needed to remove all of the TFS global properties from a ton of solution files.  This is the hack code I wrote to get that accomplished.  I would like to highly modify this tool to accept a directory path, extension type, a beginning string and and end string.  So this repo is a big To Do but it was / is a start.
+Recently I needed to remove all of the TFS global properties from a ton of solution files.  This is the hack code I wrote to get that accomplished.  I would like to highly modify this tool to accept a directory path, extension type, a beginning string and ending string.  So this repo is a big to do but it is a start.
 
 -----------
 To Do:
