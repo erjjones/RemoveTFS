@@ -1,0 +1,27 @@
+#Remove TFS Globals from your source tree solution files#
+
+-----------
+Description:
+-----------
+Recently I needed to remove all of the TFS global properties from a ton of solution files.  
+This is the hack code I wrote to get that accomplished.  I would like to highly modify this 
+tool to accept a directory path, extension type, a beginning string and and end string.  
+So this repo is a big To Do but it was / is a start.
+
+-----------
+To Do:
+-----------
+1. Accept the following inputs
+	- Directory Path
+	- File extension
+	- Start String
+	- End String
+
+2. Modify the code to use the input values
+
+-----------
+How To:
+-----------
+1. Clone the repo and open the Program.cs
+2. Modify your directory path to be relative to your code.
+3. Run the program 
