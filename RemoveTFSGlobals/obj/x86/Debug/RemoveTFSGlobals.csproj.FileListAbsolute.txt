@@ -1,0 +1,5 @@
+C:\Development\Tools\RemoveTFSGlobals\RemoveTFSGlobals\bin\Debug\RemoveTFSGlobals.exe
+C:\Development\Tools\RemoveTFSGlobals\RemoveTFSGlobals\bin\Debug\RemoveTFSGlobals.pdb
+C:\Development\Tools\RemoveTFSGlobals\RemoveTFSGlobals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Tools\RemoveTFSGlobals\RemoveTFSGlobals\obj\x86\Debug\RemoveTFSGlobals.exe
+C:\Development\Tools\RemoveTFSGlobals\RemoveTFSGlobals\obj\x86\Debug\RemoveTFSGlobals.pdb
